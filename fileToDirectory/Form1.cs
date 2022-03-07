@@ -70,6 +70,7 @@ namespace fileToDirecory
                     File.Copy(file, distFile, true);
                 }
             }
+            MessageBox.Show("執行完畢", "", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
     }
 }
