@@ -91,9 +91,9 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(335, 334);
+            this.button3.Location = new System.Drawing.Point(307, 334);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(75, 23);
+            this.button3.Size = new System.Drawing.Size(180, 59);
             this.button3.TabIndex = 6;
             this.button3.Text = "執行動作";
             this.button3.UseVisualStyleBackColor = true;
